@@ -1,7 +1,8 @@
 由BlueSkyXN原创
-博客：     https://blog.000714.xyz
+
+博客：    https://www.blueskyxn.com
+
 个人主页： https://000714.xyz
-联系方式： BlueSky@000714.xyz
 
 
 提供三个版本
@@ -21,4 +22,4 @@ img.txt名字需要和引用者一致
 如果发现引用异常，可能是缺少内容标识符
 
 
-请前往相关介绍页：https://blog.000714.xyz/202012/2861.html
+请前往相关介绍页：https://www.blueskyxn.com/202012/2861.html
