@@ -26,3 +26,6 @@ https://www.yunboys.cn/sjbz/api.php?method=mobile&lx=dongman
 https://api.yimian.xyz/img?type=moe&size=1920x1080
 https://www.320nle.com/acggirl/acgurl.php
 https://acg.yanwz.cn/wallpaper/api.php
+
+
+//记得去掉注销和所有空行，支持套娃随机图如上，也可以直接塞图片直链
